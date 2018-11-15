@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/GridLookupCustomBinding/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/GridLookupCustomBinding/Controllers/HomeController.vb))
+* [IncrementalFilteringController.cs](./CS/GridLookupCustomBinding/Controllers/IncrementalFilteringController.cs) (VB: [IncrementalFilteringController.vb](./VB/GridLookupCustomBinding/Controllers/IncrementalFilteringController.vb))
+* [MultiSelectController.cs](./CS/GridLookupCustomBinding/Controllers/MultiSelectController.cs) (VB: [MultiSelectController.vb](./VB/GridLookupCustomBinding/Controllers/MultiSelectController.vb))
+* **[CustomBindingModel.cs](./CS/GridLookupCustomBinding/Models/CustomBindingModel.cs) (VB: [CustomBindingModel.vb](./VB/GridLookupCustomBinding/Models/CustomBindingModel.vb))**
+* [GridLookupIncrementalFilteringPartial.cshtml](./CS/GridLookupCustomBinding/Views/IncrementalFiltering/GridLookupIncrementalFilteringPartial.cshtml)
+* [GridLookupMultiSelectPartial.cshtml](./CS/GridLookupCustomBinding/Views/MultiSelect/GridLookupMultiSelectPartial.cshtml)
+<!-- default file list end -->
 # How to use GridLookup in Custom Data Binding mode
 
 
