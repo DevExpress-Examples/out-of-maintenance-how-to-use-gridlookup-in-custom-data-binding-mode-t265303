@@ -9,6 +9,9 @@
 * [GridLookupMultiSelectPartial.cshtml](./CS/GridLookupCustomBinding/Views/MultiSelect/GridLookupMultiSelectPartial.cshtml)
 <!-- default file list end -->
 # How to use GridLookup in Custom Data Binding mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t265303)**
+<!-- run online end -->
 
 
 <p>This example illustrates what functionality is required to use GridLookup in <a href="https://documentation.devexpress.com/#AspNet/CustomDocument14374">Custom Data Binding</a> Mode <br><br>The following delegates are required: </p>
