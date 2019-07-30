@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to use GridLookup in Custom Data Binding mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t265303)**
+**[[Run Online]](https://codecentral.devexpress.com/t265303/)**
 <!-- run online end -->
 
 
