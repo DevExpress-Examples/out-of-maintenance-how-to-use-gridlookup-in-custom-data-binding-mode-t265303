@@ -14,9 +14,9 @@
 <!-- run online end -->
 
 
-<p>This example illustrates what functionality is required to use GridLookup in <a href="https://documentation.devexpress.com/#AspNet/CustomDocument14374">Custom Data Binding</a> Mode <br><br>The following delegates are required: </p>
-<p><a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewCustomBindingGetDataHandlertopic">GridViewCustomBindingGetDataHandler</a><a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewCustomBindingGetDataRowCountHandlertopic"> <br>GridViewCustomBindingGetDataRowCountHandler</a> <br><a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewCustomBindingGetRowValuesHandlertopic">GridViewCustomBindingGetRowValuesHandler</a> </p>
-<p><br>The following <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewOperationTypeEnumtopic">GridViewOperationTypes</a>  are required<br>Paging<br>Sorting <br>Filtering (for Incremental Filtering)</p>
+<p>This example illustrates what functionality is required to use GridLookup in <a href="https://docs.devexpress.com/AspNetMvc/14321/components/grid-view/concepts/binding-to-data/custom-data-binding">Custom Data Binding</a> Mode <br><br>The following delegates are required: </p>
+<p><a href="https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewCustomBindingGetDataHandler">GridViewCustomBindingGetDataHandler</a><a href="https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewCustomBindingGetDataRowCountHandler"> <br>GridViewCustomBindingGetDataRowCountHandler</a> <br><a href="https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewCustomBindingGetRowValuesHandler">GridViewCustomBindingGetRowValuesHandler</a> </p>
+<p><br>The following <a href="https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewOperationType">GridViewOperationTypes</a>  are required<br>Paging<br>Sorting <br>Filtering (for Incremental Filtering)</p>
 
 <br/>
 
